@@ -4,6 +4,9 @@
 ![Description of GIF](assets/export_char.gif)
 
 -   copy toàn bộ mảng char trong stub.c vào crypter.cpp
+
+![Description of GIF](assets/copy_char.gif)
+
 -   build crypter.cpp -> crypter.exe
 -   kéo thả file exe vào crypter.exe
 
